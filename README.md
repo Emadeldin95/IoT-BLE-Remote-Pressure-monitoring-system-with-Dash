@@ -31,7 +31,7 @@ Open your web browser and navigate to `http://127.0.0.1:8050` to view the applic
 - Dropdown menu to select specific sensors for display.
 
 ## Screenshot
-![Screenshot Placeholder](On-site.png)
+![Screenshot Placeholder](On-site.jpg)
 
 ## License
 This project is licensed under the MIT License.
