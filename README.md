@@ -1,7 +1,7 @@
 # Remote Pressure Monitoring System
 
 ## Description
-This application is a remote pressure monitoring system built using Dash. It visualizes pressure readings from multiple IoT sensors in real-time.This system have been developed for Pirelli Tire Company to monitor the pressure of their tire building machines in real-time with no wiring or infrastructure. The first of many steps to Industry 4.0 .
+This application is a remote pressure monitoring system built using Dash. It visualizes pressure readings from multiple IoT sensors in real-time.This system have been developed for a Tire Company to monitor the pressure of their tire building machines in real-time with no wiring or infrastructure. The first of many steps to Industry 4.0 .
 The project contains to sepearte process that have to run in parrallel, the ble_scan_stable.py(BLE communication for sensors) and the main.py(Dash app)
 
 ## Installation
